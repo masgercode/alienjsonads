@@ -3,7 +3,7 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"bf20d19a3d22335a",
@@ -29,7 +29,7 @@
       "id": 1,
       "name_category": "Playstore",
       "title": "Cara mengisi Form Data Safety",
-      "image": "",
+      "image": "file:///android_asset/image/guide2.jpg",
       "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
       "link": "file:///android_asset/guide/guide1.html"
     },
